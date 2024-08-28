@@ -5,6 +5,7 @@ date: 2019-12-19 18:26:22
 description: Generating Fantasy city names with Markov chains
 tags: AI gamedev maths
 categories:
+giscus_comments: true
 ---
 
 I have been working on generating random world maps and decided to give name generation a shot. I now have a header file that can be fed words to generate new words using the input as a dataset.

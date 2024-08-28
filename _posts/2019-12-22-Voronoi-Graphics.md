@@ -5,6 +5,7 @@ date: 2019-12-22 14:37:40
 description: Generate 2d map terrain on voronoi diagrams
 tags: gamedev maths
 categories:
+giscus_comments: true
 ---
 Today I generated and drew onto a voronoi diagram using the [Voronoi](https://github.com/mdally/Voronoi) (mdally/Voronoi) library.
 
